@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material Tabs</string>
+    <string name="name_tab1">Tab 1</string>
+    <string name="name_tab2">Tab 2</string>
+    <string name="name_tab3">Tab 3</string>
+    <string name="message_fragment">Coming Soon.....</string>
+</resources>
